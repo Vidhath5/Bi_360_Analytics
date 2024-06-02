@@ -1,5 +1,3 @@
-# Bi_360_Analytics
-Created a business insights 360 report for the hardware Company Atliq Hardware which has multiple views like Marketing Sales Supply Chain and Executive for taking data driven decisions and save margins.
 ### BI 360 Project: Business Insights for Atliq Hardware
 
 **Description:**
@@ -42,12 +40,11 @@ This project develops a comprehensive Business Insights 360 report for Atliq Har
    - **Metrics:** Forecast Accuracy, Net Error, Absolute Error (KPIs).
    - **Visualizations:** Key Metrics by Customer and Product, Net Sales Over Time.
 
-**Screenshots:**
-Include screenshots of the key visualizations to enhance the description. You can upload the images to your GitHub repository and link them here.
+**Dashboard:**
+Explore the interactive Power BI dashboard for detailed insights: [BI 360 Dashboard for Atliq Hardware](your_dashboard_link_here)
 
-```markdown
-![Finance View](https://github.com/YourUsername/YourRepoName/path/to/finance_view.png)
-![Sales View](https://github.com/YourUsername/YourRepoName/path/to/sales_view.png)
-![Marketing View](https://github.com/YourUsername/YourRepoName/path/to/marketing_view.png)
-![Executive View](https://github.com/YourUsername/YourRepoName/path/to/executive_view.png)
-![Supply Chain View](https://github.com/YourUsername/YourRepoName/path/to/supply_chain_view.png)
+This structure provides a comprehensive overview of the BI 360 project for Atliq Hardware, detailing the objectives, methodologies, and insights gained from each view.
+
+You can now proceed to create the GitHub repository and upload this README.md file along with the Power BI dashboard link.
+https://app.powerbi.com/view?r=eyJrIjoiM2JkODNjYzgtMWNlYS00ZDBjLTg2MzQtNGUyMDA4MTM5YWFmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
