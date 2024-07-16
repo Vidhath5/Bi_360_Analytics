@@ -40,9 +40,6 @@ This project develops a comprehensive Business Insights 360 report for Atliq Har
    - **Metrics:** Forecast Accuracy, Net Error, Absolute Error (KPIs).
    - **Visualizations:** Key Metrics by Customer and Product, Net Sales Over Time.
 
-**Dashboard:**
-Explore the interactive Power BI dashboard for detailed insights: [BI 360 Dashboard for Atliq Hardware](your_dashboard_link_here)
-
 This structure provides a comprehensive overview of the BI 360 project for Atliq Hardware, detailing the objectives, methodologies, and insights gained from each view.
 
 You can now proceed to create the GitHub repository and upload this README.md file along with the Power BI dashboard link.
